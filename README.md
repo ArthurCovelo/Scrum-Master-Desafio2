@@ -32,7 +32,6 @@ O objetivo deste projeto foi consolidar o entendimento dos pilares e valores do 
 3. **Incremento:** Versão do produto após cada Sprint.
 
 ## Framework Utilizado
-<br>
 ![Scrum](https://img.shields.io/badge/Scrum-%2341B883.svg?style=for-the-badge&logo=scrum-alliance&logoColor=white)
 
 ## Visualização do Miro
